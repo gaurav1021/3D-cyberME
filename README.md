@@ -15,7 +15,7 @@ This project was developed using modern web development technologies to ensure h
 <tr>
 <td align="center">
 <a href="https://github.com/gaurav1021">
-<img src="./pages/images/Gaurav_Mangal.jpeg" width="120px;" alt="Gaurav Mangal"/><br>
+<img src="./image4/Gaurav_Mangal.jpeg" width="120px;" alt="Gaurav Mangal"/><br>
 <sub>
 <b>Gaurav Mangal</b>
 </sub>
